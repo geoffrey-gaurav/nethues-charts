@@ -1,6 +1,6 @@
 {
   "name": "nethues-charts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -13,14 +13,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/geoffrey-gaurav/nethues-charts"
   },
   "author": {
     "name": "Gaurav Rathee",
     "email": "geoffrey@123789.org"
   },
   "keywords": [
-    "angular"
+    "angular",
+    "angular2",
+    "angular4",
+    "charts",
+    "nethues-charts",
+    "angular library",
+    "angular-charts",
+    "angular2-charts"
   ],
   "license": "MIT",
   "bugs": {

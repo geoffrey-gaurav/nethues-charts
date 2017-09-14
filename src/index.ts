@@ -4,6 +4,8 @@ import { SampleComponent } from './sample.component';
 import { SampleDirective } from './sample.directive';
 import { SamplePipe } from './sample.pipe';
 import { SampleService } from './sample.service';
+import {ChartComponent} from './chart.component';
+
 
 export * from './sample.component';
 export * from './sample.directive';
@@ -17,7 +19,8 @@ export * from './sample.service';
   declarations: [
     SampleComponent,
     SampleDirective,
-    SamplePipe
+    SamplePipe,
+    ChartComponent
   ],
   exports: [
     SampleComponent,

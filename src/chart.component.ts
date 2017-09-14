@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'sample-component',
-  template: `<h1>Sample component1<chart-component></chart-component></h1>`
+  selector: 'chart-component',
+  template: `<h1>chart component1234</h1>`
 })
-export class SampleComponent {
+export class ChartComponent {
 
   constructor() {
   	/*https://github.com/jvandemo/generator-angular2-library*/
