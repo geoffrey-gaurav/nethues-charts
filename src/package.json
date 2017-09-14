@@ -1,0 +1,28 @@
+{
+  "name": "nethues-charts",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Gaurav Rathee",
+    "email": "geoffrey@123789.org"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "nethues-charts.umd.js",
+  "module": "nethues-charts.js",
+  "jsnext:main": "nethues-charts.js",
+  "typings": "nethues-charts.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
